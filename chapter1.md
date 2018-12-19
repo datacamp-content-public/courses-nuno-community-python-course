@@ -33,7 +33,7 @@ Use common sense to solve this exercise
 `@sample_code`
 ```{python}
 # use print function to print 'Hello Nuno' string
-print('')
+print('type something here')
 ```
 
 `@solution`
