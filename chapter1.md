@@ -27,7 +27,7 @@ Use common sense to solve this exercise
 
 `@pre_exercise_code`
 ```{python}
-python3 -m pip install --upgrade pandas==0.23.0
+pip install pandas
 ```
 
 `@sample_code`
