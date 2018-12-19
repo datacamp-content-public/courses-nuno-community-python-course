@@ -27,7 +27,7 @@ Use common sense to solve this exercise
 
 `@pre_exercise_code`
 ```{python}
-
+conda install pandas
 ```
 
 `@sample_code`
