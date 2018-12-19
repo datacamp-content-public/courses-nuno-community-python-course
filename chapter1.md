@@ -13,7 +13,7 @@ xp: 100
 skills: 2
 ```
 
-Welcome o Nuno's first exercise. 
+Welcome o Nuno's first exercise.
 
 `@instructions`
 This is a really easy exercise, and you should be able to do it without any previous knowledge (only common sense).
