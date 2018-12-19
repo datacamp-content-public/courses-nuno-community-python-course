@@ -43,5 +43,5 @@ print('')
 
 `@sct`
 ```{python}
-Ex().has_output('Hello Nuno').success_msg('well done')
+Ex().has_output('Hello Nuno')
 ```
