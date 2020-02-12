@@ -14,6 +14,7 @@ skills: 2
 ```
 
 Welcome o Nuno's first exercise.
+Hi
 
 `@instructions`
 This is a really easy exercise, and you should be able to do it without any previous knowledge (only common sense).
@@ -38,7 +39,7 @@ print('type something here')
 
 `@solution`
 ```{python}
-'Hello Nuno'
+print('Hello Nuno')
 ```
 
 `@sct`
