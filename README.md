@@ -1,1 +1,1 @@
-# courses-nuno-community-python-course
+# courses-nuno-community-python-coursee
