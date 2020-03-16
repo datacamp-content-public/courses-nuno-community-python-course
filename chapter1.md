@@ -48,7 +48,7 @@ Ex().has_output('Hello Nuno')
 
 ---
 
-## Insert exercise title here
+## From GitHub
 
 ```yaml
 type: VideoExercise
