@@ -45,3 +45,16 @@ print('Hello Nuno')
 ```{python}
 Ex().has_output('Hello Nuno')
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: d47aeb2160
+xp: 50
+```
+
+`@projector_key`
+f87f31298d11674297bff2f85c0eb420
