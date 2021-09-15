@@ -77,7 +77,7 @@ xp: 50
 `@hint`
 <!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
 - This is an example hint.
-- This is an example hint.
+- This is an example hint.Test commit
 
 `@possible_answers`
 - [Correct answer 1]
