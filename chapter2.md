@@ -1,6 +1,9 @@
 ---
 description: This is a test chapter
 title: Test Chapter 2
+lessons:
+  - nb_of_exercises: 1
+    title: Lesson 1
 ---
 
 ## Test video 1
